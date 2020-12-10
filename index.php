@@ -7,7 +7,7 @@
 </head>
 <body>
 	<div class="header">
-		<h2>Student Register</h2>
+		<h2>Employee Register</h2>
 	</div>
 	
 	<form method="post" >
