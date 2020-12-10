@@ -1,5 +1,5 @@
 <?php
-$db=mysqli_connect('localhost','root',"","emp_details");
+$db=mysqli_connect('localhost','admin',"admin123","emp_details");
 if(isset($_POST['reg_user']))
 {
 	$roll_number = mysqli_real_escape_string($db, $_POST['roll_number']);
